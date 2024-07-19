@@ -1,0 +1,15 @@
+/Users/henry/Documents/SE_training/app/TicTacToe/bin/Debug/net8.0/TicTacToe
+/Users/henry/Documents/SE_training/app/TicTacToe/bin/Debug/net8.0/TicTacToe.deps.json
+/Users/henry/Documents/SE_training/app/TicTacToe/bin/Debug/net8.0/TicTacToe.runtimeconfig.json
+/Users/henry/Documents/SE_training/app/TicTacToe/bin/Debug/net8.0/TicTacToe.dll
+/Users/henry/Documents/SE_training/app/TicTacToe/bin/Debug/net8.0/TicTacToe.pdb
+/Users/henry/Documents/SE_training/app/TicTacToe/obj/Debug/net8.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/henry/Documents/SE_training/app/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/henry/Documents/SE_training/app/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfo.cs
+/Users/henry/Documents/SE_training/app/TicTacToe/obj/Debug/net8.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/henry/Documents/SE_training/app/TicTacToe/obj/Debug/net8.0/TicTacToe.sourcelink.json
+/Users/henry/Documents/SE_training/app/TicTacToe/obj/Debug/net8.0/TicTacToe.dll
+/Users/henry/Documents/SE_training/app/TicTacToe/obj/Debug/net8.0/refint/TicTacToe.dll
+/Users/henry/Documents/SE_training/app/TicTacToe/obj/Debug/net8.0/TicTacToe.pdb
+/Users/henry/Documents/SE_training/app/TicTacToe/obj/Debug/net8.0/TicTacToe.genruntimeconfig.cache
+/Users/henry/Documents/SE_training/app/TicTacToe/obj/Debug/net8.0/ref/TicTacToe.dll

@@ -183,7 +183,7 @@ namespace TicTacToe
                         else ShowResult(2); // CPUWin
                         break;
                     }
-                    if(Move == 9) {
+                    if(Move == gameSize*gameSize) {
                         ShowResult(3); // Draw
                         break;
                     }
